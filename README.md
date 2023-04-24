@@ -1,4 +1,4 @@
-# [Live site preview of Kryptoz web3 project](https://kryptozweb3.netlify.app)
+# [Live site preview of Krypt web3 project](https://kryptozweb3.netlify.app)
 
 #### https://kryptozweb3.netlify.app
 
