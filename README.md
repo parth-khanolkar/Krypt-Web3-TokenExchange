@@ -11,3 +11,9 @@
 - **Tailwind CSS**
 - **Metamask transactions**
 - **TradingView API**
+
+
+
+
+https://github.com/parth-khanolkar/Krypt-Web3-TokenExchange/assets/75361189/3919d908-a2c5-46cd-9474-756d46e309ee
+
