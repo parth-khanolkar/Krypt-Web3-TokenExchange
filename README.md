@@ -45,6 +45,6 @@ To run the Hoobank Landing Page locally, follow these steps:
 
     npm run dev
 
-   Open your browser and visit http://localhost:3000 to view the Hoobank Landing Page.
+   Open your browser and visit http://localhost:3000 to view the Krypt token exchange website.
    
    You will need to have MetaMask extension in your browser to use this website.
