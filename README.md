@@ -13,7 +13,37 @@
 - **TradingView API**
 
 
+## Demo
+
+---
 
 
 https://github.com/parth-khanolkar/Krypt-Web3-TokenExchange/assets/75361189/3919d908-a2c5-46cd-9474-756d46e309ee
 
+
+---
+---
+Installation
+
+To run the Hoobank Landing Page locally, follow these steps:
+
+   Clone the repository:
+
+     git clone https://github.com/username/hoobank-landing-page.git
+
+   Navigate to the project directory:
+
+
+     cd hoobank-landing-page
+
+   Install the required dependencies:
+
+
+     npm install
+
+   Start the development server:
+
+
+    npm start
+
+   Open your browser and visit http://localhost:3000 to view the Hoobank Landing Page.
