@@ -24,7 +24,7 @@ https://github.com/parth-khanolkar/Krypt-Web3-TokenExchange/assets/75361189/3919
 ---
 Installation
 
-To run the Hoobank Landing Page locally, follow these steps:
+To run the Krypt token exchange website locally, follow these steps:
 
    Clone the repository:
 
