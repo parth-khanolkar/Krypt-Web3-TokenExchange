@@ -28,12 +28,12 @@ To run the Hoobank Landing Page locally, follow these steps:
 
    Clone the repository:
 
-     git clone https://github.com/username/hoobank-landing-page.git
-
+     git clone https://github.com/parth-khanolkar/Krypt-Web3-TokenExchange.git
+     
    Navigate to the project directory:
 
 
-     cd hoobank-landing-page
+     cd Krypt-Web3-TokenExchange
 
    Install the required dependencies:
 
