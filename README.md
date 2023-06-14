@@ -44,6 +44,8 @@ To run the Hoobank Landing Page locally, follow these steps:
    Start the development server:
 
 
-    npm start
+    npm run dev
 
    Open your browser and visit http://localhost:3000 to view the Hoobank Landing Page.
+   
+   You will need to have MetaMask extension in your browser to use this website.
